@@ -113,7 +113,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("task", type=str, help="Evaluation task.")
     parser.add_argument("prompt", type=str, help="Path to exemplar string as .txt file.")
-    parser.add_argument("--test_file", "-t", type=str, default="test.txt", help="Test file as .txt.")
+    parser.add_argument("--test_file", "-t", type=str, default="test.ood.json", help="Test file as .json.")
     parser.add_argument("--batch_size", "-b", type=int, default=1, help="Batch size for API calls.") 
     parser.add_argument("--max_len", "-l", type=int, default=256, help="Maximum number of tokens the API should return for each request.")
     parser.add_argument("--init_sleep_len", "-s", type=float, default=1.0, help="Amount of time between requests.")
