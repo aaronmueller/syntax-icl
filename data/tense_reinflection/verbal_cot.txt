@@ -1,0 +1,23 @@
+Q: Convert this sentence to present tense. Her ravens entertained your zebras with my vultures.
+A: "ravens" is the main subject. "entertained" agrees with "ravens". We need to convert every verb to present tense. "ravens" is plural, so entertained becomes entertain. The answer is Her ravens entertain your zebras with my vultures.
+
+Q: Convert this sentence to present tense. Her newt around your unicorn confused some quail.
+A: "newt" is the main subject. "unicorn" is in a prepositional phrase. "confused" agrees with "newt". We need to convert every verb to present tense. "newt" is singular, so confused becomes confuses. The answer is Her newt around your unicorn conufses some quail.
+
+Q: Convert this sentence to present tense. The xylophones that the unicorns amused remembered her salamanders.
+A: "xylophones" is the main subject. "unicorns" is in a relative clause. "amused" agrees with "unicorns". "remembered" agrees with "xylophones". We need to convert every verb to present tense. "unicorns" is plural, so amused becomes amuse. "xylophones" is plural, so remembered becomes remember. The answer is The xylophones that the unicorns amuse remember her salamanders.
+
+Q: Convert this sentence to present tense. Your yaks swam.
+A: "yaks" is the main subject. "swam" agrees with "yaks". We need to convert every verb to present tense. "yaks" is plural, so swam becomes swim. The answer is Your yaks swim.
+
+Q: Conver this sentence to present tense. Our unicorn comforted some yak.
+A: "unicorn" is the main subject. "comforted" agrees with "unicorn". We need to convert every verb to present tense. "unicorn" is singular, so comforted becomes comforts. The answer is Our unicorn comforts some yak.
+
+Q: Convert this sentence to present tense. Some tyrannosauruses who smiled admired my newts who slept.
+A: "tyrannosauruses" is the main subject. "smiled" agrees with "tyrannosauruses". "admired" agrees with "tyrannosauruses". "newts" is the object. "slept" agrees with "newts". We need to convert every verb to present tense. "tyrannosauruses" is plural, so smiled becomes smile. "tyrannosauruses" is plural, so admired becomes admire. "newts" is plural, so slept becomes sleep. The answer is Some tyrannosauruses who smile admire my newts who sleep.
+
+Q: Convert this sentence to present tense. Her salamander that read accepted the unicorn who some raven accepted.
+A: "salamander" is the main subject. "read" agrees with "salamander". "accepted" agrees with "salamander". "unicorn" is the object. "raven" is in a relative clause. "accepted" agrees with "raven". We need to convert every verb to present tense. "salamander" is singular, so read becomes reads. "salamander" is singular, so accepted becomes accepts. "raven" is singular, so accepted becomes accepts. The answer is Her salamander that reads accepts the unicorn who some raven accepts.
+
+Q: Convert this sentnece to present tense. The unicorn ate.
+A: "unicorn" is the main subject. "ate" agrees with "unicorn". "unicorn" is singular, so ate becomes eats. The answer is The unicorn eats.

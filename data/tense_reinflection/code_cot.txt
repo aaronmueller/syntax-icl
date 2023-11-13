@@ -1,0 +1,151 @@
+Q: Convert this sentence to present tense. Her ravens entertained your zebras with my vultures.
+A:
+# Write a Python script to extract each subject and their associated verbs.
+# Using this information, transform each past-tense verb into a present-tense verb by agreeing the verbs with their subjects.
+sentence = "Her ravens entertained your zebras with my vultures."
+answer = sentence
+
+# keys are subjects, values are associated verbs
+subjects_verbs = {"ravens": ["entertained"], "zebras": [], "vultures": []}
+
+for subject in subjects_verbs.keys():
+	for verb in subjects_verbs[subject]:
+		if is_singular(subject):
+			present_verb = make_singular(verb)
+		else:
+			present_verb = make_plural(verb)
+		answer.replace(verb, present_verb, 1)
+# The answer is Her ravens entertain your zebras with my vultures.
+
+Q: Convert this sentence to present tense. Her newt around your unicorn confused some quail.
+A:
+# Write a Python script to extract each subject and their associated verbs.
+# Using this information, transform each past-tense verb into a present-tense verb by agreeing the verbs with their subjects.
+sentence = "Her newt around your unicorn confused some quail."
+answer = sentence
+
+# keys are subjects, values are associated verbs
+subjects_verbs = {"newt": ["confused"], "unicorn": [], "quail": []}
+
+for subject in subjects_verbs.keys():
+	for verb in subjects_verbs[subject]:
+		if is_singular(subject):
+			present_verb = make_singular(verb)
+		else:
+			present_verb = make_plural(verb)
+		answer.replace(verb, present_verb, 1)
+# The answer is Her newt around your unicorn confuses some quail.
+
+Q: Convert this sentence to present tense. The xylophones that the unicorns amused remembered her salamanders.
+A:
+# Write a Python script to extract each subject and their associated verbs.
+# Using this information, transform each past-tense verb into a present-tense verb by agreeing the verbs with their subjects.
+sentence = "The xylophones that the unicorns amused remembered her salamanders."
+answer = sentence
+
+# keys are subjects, values are associated verbs
+subjects_verbs = {"xylophones": ["remembered"], "unicorns": ["amused"], "vultures": []}
+
+for subject in subjects_verbs.keys():
+	for verb in subjects_verbs[subject]:
+		if is_singular(subject):
+			present_verb = make_singular(verb)
+		else:
+			present_verb = make_plural(verb)
+		answer.replace(verb, present_verb, 1)
+# The answer is The xylophones that the unicorns amuse remember her salamanders.
+
+Q: Convert this sentence to present tense. Your yaks swam.
+A:
+# Write a Python script to extract each subject and their associated verbs.
+# Using this information, transform each past-tense verb into a present-tense verb by agreeing the verbs with their subjects.
+sentence = "Your yaks swam."
+answer = sentence
+
+# keys are subjects, values are associated verbs
+subjects_verbs = {"yaks": ["swam"]}
+
+for subject in subjects_verbs.keys():
+	for verb in subjects_verbs[subject]:
+		if is_singular(subject):
+			present_verb = make_singular(verb)
+		else:
+			present_verb = make_plural(verb)
+		answer.replace(verb, present_verb, 1)
+# The answer is Your yaks swim.
+
+Q: Convert this sentence to present tense. Our unicorn comforted our yak.
+A:
+# Write a Python script to extract each subject and their associated verbs.
+# Using this information, transform each past-tense verb into a present-tense verb by agreeing the verbs with their subjects.
+sentence = "Our unicorn comforted our yak."
+answer = sentence
+
+# keys are subjects, values are associated verbs
+subjects_verbs = {"unicorn": ["comforted"], "yak": []}
+
+for subject in subjects_verbs.keys():
+	for verb in subjects_verbs[subject]:
+		if is_singular(subject):
+			present_verb = make_singular(verb)
+		else:
+			present_verb = make_plural(verb)
+		answer.replace(verb, present_verb, 1)
+# The answer is Our unicorn comforts our yak.
+
+Q: Convert this sentence to present tense. Some tyrannosauruses who smiled admired my newts who slept.
+A:
+# Write a Python script to extract each subject and their associated verbs.
+# Using this information, transform each past-tense verb into a present-tense verb by agreeing the verbs with their subjects.
+sentence = "Some tyrannosauruses who smiled admired my newts who slept."
+answer = sentence
+
+# keys are subjects, values are associated verbs
+subjects_verbs = {"tyrannosauruses": ["smiled", "admired"], "newts": ["slept"]}
+
+for subject in subjects_verbs.keys():
+	for verb in subjects_verbs[subject]:
+		if is_singular(subject):
+			present_verb = make_singular(verb)
+		else:
+			present_verb = make_plural(verb)
+		answer.replace(verb, present_verb, 1)
+# The answer is Some tyrannosauruses who smile admire my newts who sleep.
+
+Q: Convert this sentence to present tense. Her salamander that read accepted the unicorn who some raven accepted.
+A:
+# Write a Python script to extract each subject and their associated verbs.
+# Using this information, transform each past-tense verb into a present-tense verb by agreeing the verbs with their subjects.
+sentence = "Her salamander that read accepted the unicorn who some raven accepted."
+answer = sentence
+
+# keys are subjects, values are associated verbs
+subjects_verbs = {"salamander": ["read", "accepted"], "unicorn": [], "raven": ["accepted"]}
+
+for subject in subjects_verbs.keys():
+	for verb in subjects_verbs[subject]:
+		if is_singular(subject):
+			present_verb = make_singular(verb)
+		else:
+			present_verb = make_plural(verb)
+		answer.replace(verb, present_verb, 1)
+# The answer is Her salamander that reads accepts the unicorn who some raven accepts.
+
+Q: Convert this sentence to present tense. The unicorn ate.
+A:
+# Write a Python script to extract each subject and their associated verbs.
+# Using this information, transform each past-tense verb into a present-tense verb by agreeing the verbs with their subjects.
+sentence = "The unicorn ate."
+answer = sentence
+
+# keys are subjects, values are associated verbs
+subjects_verbs = {"unicorn": ["ate"]}
+
+for subject in subjects_verbs.keys():
+	for verb in subjects_verbs[subject]:
+		if is_singular(subject):
+			present_verb = make_singular(verb)
+		else:
+			present_verb = make_plural(verb)
+		answer.replace(verb, present_verb, 1)
+# The answer is The unicorn eats.

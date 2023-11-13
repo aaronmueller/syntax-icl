@@ -1,0 +1,600 @@
+{"src": "Q: The lawyers recognized the scientists that the actors avoided. Is it definitely true that The scientists recognized the actors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The lawyer was advised by the actor. Is it definitely true that The lawyer advised the actor?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The bankers were introduced by the president. Is it definitely true that The bankers introduced the president?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretary admired the athlete. Is it definitely true that The athlete admired the secretary?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctors advised the senator. Is it definitely true that The senator advised the doctors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries near the presidents saw the tourist. Is it definitely true that The tourist saw the presidents?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctor avoided the senator behind the professor. Is it definitely true that The professor avoided the doctor?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes supported the student and the author. Is it definitely true that The student supported the author?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The artist was recognized by the judge. Is it definitely true that The artist recognized the judge?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The lawyers were thanked by the senator. Is it definitely true that The lawyers thanked the senator?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The actors who recognized the athletes advised the presidents. Is it definitely true that The athletes advised the actors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The managers were admired by the banker. Is it definitely true that The managers admired the banker?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The senators avoided the lawyers. Is it definitely true that The lawyers avoided the senators?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The student helped the doctor that recommended the tourists. Is it definitely true that The doctor helped the student?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The students encouraged the secretaries. Is it definitely true that The secretaries encouraged the students?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The senators helped the judges and the students. Is it definitely true that The students helped the judges?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors recommended the students. Is it definitely true that The students recommended the professors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The student introduced the doctors and the author. Is it definitely true that The doctors introduced the author?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The bankers saw the actor. Is it definitely true that The actor saw the bankers?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athlete was thanked by the doctors. Is it definitely true that The athlete thanked the doctors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries behind the tourist saw the managers. Is it definitely true that The tourist saw the secretaries?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager contacted the tourist who the student saw. Is it definitely true that The tourist contacted the student?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The lawyer and the tourists supported the scientists. Is it definitely true that The lawyer supported the tourists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries recommended the judges. Is it definitely true that The judges recommended the secretaries?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The author believed the actor. Is it definitely true that The actor believed the author?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The judge and the managers stopped the tourists. Is it definitely true that The judge stopped the managers?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The authors who introduced the tourists called the senators. Is it definitely true that The senators called the authors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The managers stopped the authors. Is it definitely true that The authors stopped the managers?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries advised the judge and the managers. Is it definitely true that The managers advised the judge?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The tourists saw the judge and the scientists. Is it definitely true that The judge saw the scientists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The actor advised the student. Is it definitely true that The student advised the actor?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The banker believed the president who avoided the senator. Is it definitely true that The president believed the banker?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The senator admired the scientists. Is it definitely true that The scientists admired the senator?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents by the artists recommended the author. Is it definitely true that The author recommended the presidents?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The author was recognized by the artist. Is it definitely true that The author recognized the artist?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists believed the senator. Is it definitely true that The senator believed the scientists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes were recommended by the secretaries. Is it definitely true that The athletes recommended the secretaries?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes stopped the authors. Is it definitely true that The authors stopped the athletes?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The student advised the lawyer. Is it definitely true that The lawyer advised the student?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager and the students supported the lawyers. Is it definitely true that The manager supported the students?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The judges admired the lawyers that supported the secretaries. Is it definitely true that The lawyers admired the the secretaries?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists who the actors believed saw the lawyer. Is it definitely true that The lawyer saw the scientists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The judge who the senators recommended believed the doctor. Is it definitely true that The doctor believed the senators?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The judges called the bankers who introduced the presidents. Is it definitely true that The bankers called the judges?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctors behind the judges believed the students. Is it definitely true that The students believed the judges?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The tourists saw the presidents. Is it definitely true that The presidents saw the tourists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The student was believed by the artists. Is it definitely true that The student believed the artists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents admired the artist and the athlete. Is it definitely true that The athlete admired the artist?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes and the managers avoided the scientists. Is it definitely true that The athletes avoided the managers?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists were supported by the professors. Is it definitely true that The scientists supported the professors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The author in front of the athletes believed the banker. Is it definitely true that The athletes believed the author?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The judge contacted the doctors in front of the lawyer. Is it definitely true that The lawyer contacted the judge?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes were helped by the manager. Is it definitely true that The athletes helped the manager?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents were recognized by the scientists. Is it definitely true that The presidents recognized the scientists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The tourists believed the presidents. Is it definitely true that The presidents believed the tourists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The professor introduced the artist by the student. Is it definitely true that The artist introduced the professor?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The author supported the judge next to the scientist. Is it definitely true that The judge supported the author?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientist who the secretary avoided encouraged the actor. Is it definitely true that The actor encouraged the scientist?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The senator and the bankers supported the secretary. Is it definitely true that The senator supported the bankers?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athlete mentioned the professor that contacted the manager. Is it definitely true that The professor mentioned the the manager?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The students advised the judge. Is it definitely true that The judge advised the students?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The bankers and the author saw the scientists. Is it definitely true that The bankers saw the author?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretary advised the scientist who recognized the presidents. Is it definitely true that The scientist advised the the presidents?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The student contacted the athlete who the scientists avoided. Is it definitely true that The scientists contacted the student?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries avoided the actors in front of the president. Is it definitely true that The actors avoided the president?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes called the professor who the actors advised. Is it definitely true that The actors called the athletes?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The student contacted the actor near the artist. Is it definitely true that The actor contacted the artist?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents were stopped by the students. Is it definitely true that The presidents stopped the students?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The banker introduced the professor. Is it definitely true that The professor introduced the banker?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes introduced the author who mentioned the senators. Is it definitely true that The author introduced the the senators?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretary supported the author. Is it definitely true that The author supported the secretary?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctors were supported by the athletes. Is it definitely true that The doctors supported the athletes?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The artists helped the doctors. Is it definitely true that The doctors helped the artists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The tourists by the students believed the lawyers. Is it definitely true that The lawyers believed the tourists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The banker by the scientists admired the artists. Is it definitely true that The artists admired the banker?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The tourist was supported by the secretary. Is it definitely true that The tourist supported the secretary?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes thanked the artists. Is it definitely true that The artists thanked the athletes?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The authors who the artists supported recommended the tourist. Is it definitely true that The artists recommended the authors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The artists avoided the students near the presidents. Is it definitely true that The students avoided the presidents?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors near the senator thanked the lawyer. Is it definitely true that The lawyer thanked the professors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager supported the senators that recommended the banker. Is it definitely true that The senators supported the the banker?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents and the senator mentioned the authors. Is it definitely true that The presidents mentioned the senator?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists that recommended the tourist thanked the authors. Is it definitely true that The authors thanked the tourist?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries believed the presidents and the student. Is it definitely true that The presidents believed the student?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager believed the doctors. Is it definitely true that The doctors believed the manager?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The lawyers contacted the scientist and the doctors. Is it definitely true that The scientist contacted the doctors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The lawyers near the author helped the professors. Is it definitely true that The author helped the lawyers?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The bankers contacted the students. Is it definitely true that The students contacted the bankers?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctors were advised by the tourists. Is it definitely true that The doctors advised the tourists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The senator and the actors recommended the tourists. Is it definitely true that The senator recommended the actors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes supported the president. Is it definitely true that The president supported the athletes?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The artists supported the judges in front of the presidents. Is it definitely true that The presidents supported the artists?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager was supported by the lawyer. Is it definitely true that The manager supported the lawyer?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents by the doctor introduced the judges. Is it definitely true that The judges introduced the doctor?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents saw the authors behind the senators. Is it definitely true that The senators saw the presidents?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The professor advised the manager. Is it definitely true that The manager advised the professor?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The artist encouraged the secretary. Is it definitely true that The secretary encouraged the artist?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents were helped by the professors. Is it definitely true that The presidents helped the professors?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries contacted the students and the lawyer. Is it definitely true that The lawyer contacted the students?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The banker recognized the tourists and the author. Is it definitely true that The tourists recognized the author?\nA:", "tgt": "No", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes who advised the president thanked the judges. Is it definitely true that The president thanked the judges?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The secretary knew the banker admired the doctor. Is it definitely true that The secretary knew the banker?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The tourist behind the judges introduced the managers. Is it definitely true that The judges introduced the managers?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The student helped in the school waited. Is it definitely true that The student helped in the school?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Before the author hid the presidents saw the managers. Is it definitely true that The author hid the presidents?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The professor investigated in the museum contacted the secretaries. Is it definitely true that The professor investigated in the museum?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The doctor next to the actors danced. Is it definitely true that The actors danced?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The bankers that recognized the doctor performed. Is it definitely true that The doctor performed?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The doctors that admired the student believed the scientists. Is it definitely true that The student believed the scientists?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The students recognized the author studied in the laboratory. Is it definitely true that The author studied in the laboratory?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The secretaries behind the judges resigned. Is it definitely true that The judges resigned?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Before the senators studied the actor admired the doctor. Is it definitely true that The senators studied the actor?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: After the professors presented the secretaries recommended the authors. Is it definitely true that The professors presented the secretaries?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The artists believed the lawyers contacted the secretary. Is it definitely true that The artists believed the lawyers?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The tourists by the judges admired the actors. Is it definitely true that The judges admired the actors?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Since the professors paid the banker admired the scientist. Is it definitely true that The professors paid the banker?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senators by the artists waited. Is it definitely true that The artists waited?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Since the judge studied the senator encouraged the artist. Is it definitely true that The judge studied the senator?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senator who introduced the athlete contacted the actors. Is it definitely true that The athlete contacted the actors?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The managers investigated in the library resigned. Is it definitely true that The managers investigated in the library?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The artist introduced the bankers helped in the library. Is it definitely true that The bankers helped in the library?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The lawyers behind the secretary stopped the senators. Is it definitely true that The secretary stopped the senators?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The manager behind the doctors shouted. Is it definitely true that The doctors shouted?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The secretary near the manager contacted the author. Is it definitely true that The manager contacted the author?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The tourist presented in the library contacted the scientist. Is it definitely true that The tourist presented in the library?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The scientist helped in the museum arrived. Is it definitely true that The scientist helped in the museum?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The scientists knew the lawyer ran. Is it definitely true that The scientists knew the lawyer?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Because the professors moved the manager waited. Is it definitely true that The professors moved the manager?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senator that mentioned the actors danced. Is it definitely true that The actors danced?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The managers next to the student stopped the scientist. Is it definitely true that The student stopped the scientist?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The presidents that stopped the student danced. Is it definitely true that The student danced?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Because the tourist stopped the artist arrived. Is it definitely true that The tourist stopped the artist?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senators who stopped the secretaries performed. Is it definitely true that The secretaries performed?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The scientists studied in the school saw the judge. Is it definitely true that The scientists studied in the school?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Since the managers fought the artist waited. Is it definitely true that The managers fought the artist?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: After the athletes fought the tourists contacted the students. Is it definitely true that The athletes fought the tourists?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The artists investigated in the school recognized the scientists. Is it definitely true that The artists investigated in the school?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The actor that admired the judges introduced the banker. Is it definitely true that The judges introduced the banker?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The tourists that stopped the bankers arrived. Is it definitely true that The bankers arrived?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Since the secretaries moved the artists slept. Is it definitely true that The secretaries moved the artists?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The author believed the students presented in the school. Is it definitely true that The students presented in the school?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senators that called the doctor performed. Is it definitely true that The doctor performed?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The scientist next to the author ran. Is it definitely true that The author ran?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The lawyers in front of the tourists stopped the managers. Is it definitely true that The tourists stopped the managers?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The scientists helped in the office waited. Is it definitely true that The scientists helped in the office?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The doctors who encouraged the senators avoided the scientists. Is it definitely true that The senators avoided the scientists?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senator believed the secretaries encouraged the scientists. Is it definitely true that The senator believed the secretaries?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The president helped the judge presented in the school. Is it definitely true that The judge presented in the school?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: When the tourist paid the scientists advised the artists. Is it definitely true that The tourist paid the scientists?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The doctor investigated in the school danced. Is it definitely true that The doctor investigated in the school?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Although the tourists hid the doctor shouted. Is it definitely true that The tourists hid the doctor?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Since the judge studied the lawyers introduced the tourists. Is it definitely true that The judge studied the lawyers?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The secretary who recognized the tourists supported the senators. Is it definitely true that The tourists supported the senators?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The managers helped in the museum contacted the doctors. Is it definitely true that The managers helped in the museum?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The artist near the tourists believed the president. Is it definitely true that The tourists believed the president?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The students heard the lawyer stopped the artists. Is it definitely true that The students heard the lawyer?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The athlete in front of the secretaries shouted. Is it definitely true that The secretaries shouted?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The doctor by the professor saw the judges. Is it definitely true that The professor saw the judges?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Although the managers fought the bankers contacted the judge. Is it definitely true that The managers fought the bankers?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The professor helped in the school recognized the actors. Is it definitely true that The professor helped in the school?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The manager that introduced the doctor recommended the senator. Is it definitely true that The doctor recommended the senator?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senator helped in the library called the tourists. Is it definitely true that The senator helped in the library?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The secretary heard the authors supported the doctor. Is it definitely true that The secretary heard the authors?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The president that recommended the senator thanked the artist. Is it definitely true that The senator thanked the artist?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The lawyer contacted the manager paid in the museum. Is it definitely true that The manager paid in the museum?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The banker by the tourist resigned. Is it definitely true that The tourist resigned?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The professor behind the secretaries stopped the athletes. Is it definitely true that The secretaries stopped the athletes?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The secretaries that mentioned the artist shouted. Is it definitely true that The artist shouted?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The president in front of the actor introduced the judge. Is it definitely true that The actor introduced the judge?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The doctor advised the judge studied in the office. Is it definitely true that The judge studied in the office?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The doctor believed the managers supported the artist. Is it definitely true that The doctor believed the managers?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senator knew the bankers slept. Is it definitely true that The senator knew the bankers?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The tourist by the athlete danced. Is it definitely true that The athlete danced?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The professors presented in the office believed the lawyers. Is it definitely true that The professors presented in the office?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The secretary helped in the library recognized the managers. Is it definitely true that The secretary helped in the library?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The actor recognized the senators helped in the school. Is it definitely true that The senators helped in the school?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: After the doctors moved the president helped the professors. Is it definitely true that The doctors moved the president?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The athlete in front of the students believed the tourists. Is it definitely true that The students believed the tourists?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The bankers knew the scientist advised the secretary. Is it definitely true that The bankers knew the scientist?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The actor that advised the author arrived. Is it definitely true that The author arrived?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The athletes that helped the lawyer introduced the doctor. Is it definitely true that The lawyer introduced the doctor?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The professors knew the doctors supported the actors. Is it definitely true that The professors knew the doctors?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The authors recommended the student studied in the laboratory. Is it definitely true that The student studied in the laboratory?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The tourists by the bankers admired the lawyer. Is it definitely true that The bankers admired the lawyer?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The banker behind the senators advised the athlete. Is it definitely true that The senators advised the athlete?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senators next to the secretary slept. Is it definitely true that The secretary slept?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: When the artist studied the scientist danced. Is it definitely true that The artist studied the scientist?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The senator heard the secretary resigned. Is it definitely true that The senator heard the secretary?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The athlete near the professors introduced the scientist. Is it definitely true that The professors introduced the scientist?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The presidents behind the actors mentioned the artist. Is it definitely true that The actors mentioned the artist?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The bankers next to the senator arrived. Is it definitely true that The senator arrived?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The tourists that contacted the student arrived. Is it definitely true that The student arrived?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The athletes by the manager believed the artists. Is it definitely true that The manager believed the artists?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Although the manager paid the lawyer contacted the student. Is it definitely true that The manager paid the lawyer?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The artists who stopped the student shouted. Is it definitely true that The student shouted?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The judges presented in the office encouraged the lawyers. Is it definitely true that The judges presented in the office?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The secretaries believed the judge slept. Is it definitely true that The secretaries believed the judge?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The authors who contacted the scientist slept. Is it definitely true that The scientist slept?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: The actors advised the authors studied in the library. Is it definitely true that The authors studied in the library?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Before the artist studied the lawyers performed. Is it definitely true that The artist studied the lawyers?\nA:", "tgt": "No", "heuristic": "subsequence"}
+{"src": "Q: Unless the senators contacted the doctors , the actor encouraged the manager. Is it definitely true that The actor encouraged the manager?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The tourists said that the judge admired the senators. Is it definitely true that The judge admired the senators?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Hopefully the banker arrived. Is it definitely true that The banker arrived?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Probably the judges supported the presidents. Is it definitely true that The judges supported the presidents?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the professors supported the doctors , the actors arrived. Is it definitely true that The actors arrived?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The bankers said that the presidents shouted. Is it definitely true that The presidents shouted?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The artists recommended the tourist , or the lawyers supported the scientist. Is it definitely true that The lawyers supported the scientist?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the student performed , the tourist advised the professors. Is it definitely true that The tourist advised the professors?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The presidents slept , or the professors shouted. Is it definitely true that The presidents slept?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The senators danced , or the bankers ran. Is it definitely true that The senators danced?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Probably the secretary waited. Is it definitely true that The secretary waited?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The secretary believed that the tourist recognized the professor. Is it definitely true that The tourist recognized the professor?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The bankers danced , or the secretaries avoided the senators. Is it definitely true that The bankers danced?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the judges encouraged the lawyer , the tourists shouted. Is it definitely true that The tourists shouted?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The lawyer introduced the doctors , or the secretary helped the professors. Is it definitely true that The secretary helped the professors?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the senators advised the professor , the artist saw the students. Is it definitely true that The artist saw the students?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The professors said that the students shouted. Is it definitely true that The students shouted?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the student mentioned the authors , the actor avoided the professor. Is it definitely true that The actor avoided the professor?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the scientists helped the artist , the actor called the author. Is it definitely true that The actor called the author?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the artist introduced the lawyer , the secretary performed. Is it definitely true that The artist introduced the lawyer?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the doctor supported the artists , the author saw the secretaries. Is it definitely true that The author saw the secretaries?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The scientist claimed that the manager resigned. Is it definitely true that The manager resigned?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the actor mentioned the tourists , the banker helped the scientist. Is it definitely true that The banker helped the scientist?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Whether or not the lawyer introduced the author , the scientist contacted the athletes. Is it definitely true that The lawyer introduced the author?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Hopefully the athlete waited. Is it definitely true that The athlete waited?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the athlete waited , the professor contacted the author. Is it definitely true that The professor contacted the author?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Maybe the professors introduced the doctor. Is it definitely true that The professors introduced the doctor?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The tourist said that the students advised the lawyers. Is it definitely true that The students advised the lawyers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the bankers introduced the secretaries , the senator resigned. Is it definitely true that The senator resigned?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Maybe the students performed. Is it definitely true that The students performed?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Maybe the artist stopped the judges. Is it definitely true that The artist stopped the judges?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the student called the scientists , the actors helped the secretary. Is it definitely true that The actors helped the secretary?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the bankers mentioned the judges , the manager arrived. Is it definitely true that The bankers mentioned the judges?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The scientists arrived , or the banker admired the artist. Is it definitely true that The scientists arrived?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Maybe the athlete believed the president. Is it definitely true that The athlete believed the president?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The scientist stopped the senator , or the tourist performed. Is it definitely true that The tourist performed?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The student ran , or the senator arrived. Is it definitely true that The student ran?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The scientists thought that the lawyers slept. Is it definitely true that The lawyers slept?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The actor advised the athletes , or the authors slept. Is it definitely true that The authors slept?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the lawyers contacted the banker , the artist ran. Is it definitely true that The artist ran?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The bankers hoped that the doctor advised the actors. Is it definitely true that The doctor advised the actors?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the students shouted , the presidents contacted the lawyers. Is it definitely true that The presidents contacted the lawyers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the professors waited , the doctors introduced the author. Is it definitely true that The doctors introduced the author?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the student advised the judges , the doctors avoided the lawyers. Is it definitely true that The doctors avoided the lawyers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Maybe the judge resigned. Is it definitely true that The judge resigned?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: In case the professors shouted , the scientist performed. Is it definitely true that The professors shouted?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the bankers performed , the actor stopped the president. Is it definitely true that The actor stopped the president?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the tourist encouraged the judge , the president arrived. Is it definitely true that The president arrived?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Probably the managers ran. Is it definitely true that The managers ran?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The secretaries assumed that the lawyer helped the students. Is it definitely true that The lawyer helped the students?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: In case the scientist mentioned the student , the lawyers recommended the judge. Is it definitely true that The scientist mentioned the student?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Hopefully the professors admired the scientist. Is it definitely true that The professors admired the scientist?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Hopefully the professor ran. Is it definitely true that The professor ran?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Probably the senator believed the professor. Is it definitely true that The senator believed the professor?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the presidents advised the athlete , the bankers contacted the judge. Is it definitely true that The bankers contacted the judge?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The manager admired the secretary , or the scientist helped the presidents. Is it definitely true that The scientist helped the presidents?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the author performed , the president advised the professors. Is it definitely true that The president advised the professors?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: In case the bankers thanked the senator , the professor shouted. Is it definitely true that The bankers thanked the senator?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Supposedly the lawyers danced. Is it definitely true that The lawyers danced?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Probably the actor arrived. Is it definitely true that The actor arrived?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the athlete arrived , the students stopped the presidents. Is it definitely true that The students stopped the presidents?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Probably the artists contacted the scientist. Is it definitely true that The artists contacted the scientist?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: In case the scientists helped the doctor , the professors ran. Is it definitely true that The scientists helped the doctor?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the senators introduced the professors , the actors encouraged the artist. Is it definitely true that The actors encouraged the artist?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the actors encouraged the student , the scientists introduced the secretaries. Is it definitely true that The actors encouraged the student?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the artist thanked the professor , the judges recommended the athlete. Is it definitely true that The artist thanked the professor?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: In case the presidents stopped the bankers , the secretaries slept. Is it definitely true that The presidents stopped the bankers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The bankers danced , or the manager waited. Is it definitely true that The manager waited?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the tourist recommended the actors , the senators saw the authors. Is it definitely true that The senators saw the authors?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the managers recognized the senator , the presidents saw the actors. Is it definitely true that The managers recognized the senator?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: In case the professor arrived , the managers called the presidents. Is it definitely true that The professor arrived?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Unless the senators ran , the doctors contacted the athlete. Is it definitely true that The doctors contacted the athlete?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Probably the student waited. Is it definitely true that The student waited?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The lawyer recognized the managers , or the author admired the athletes. Is it definitely true that The lawyer recognized the managers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: In case the managers saw the lawyer , the artists waited. Is it definitely true that The managers saw the lawyer?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The authors helped the student , or the presidents recognized the artists. Is it definitely true that The presidents recognized the artists?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The professors thought that the authors arrived. Is it definitely true that The authors arrived?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The presidents believed that the secretary waited. Is it definitely true that The secretary waited?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The senators said that the managers recognized the secretary. Is it definitely true that The managers recognized the secretary?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The judges thanked the professor , or the senator arrived. Is it definitely true that The judges thanked the professor?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Maybe the scientist admired the lawyers. Is it definitely true that The scientist admired the lawyers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The manager believed that the senators waited. Is it definitely true that The senators waited?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The actors waited , or the judges shouted. Is it definitely true that The actors waited?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The president thought that the judges helped the author. Is it definitely true that The judges helped the author?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The artists recognized the student , or the presidents mentioned the banker. Is it definitely true that The presidents mentioned the banker?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the author arrived , the judges ran. Is it definitely true that The judges ran?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The managers thought that the actor danced. Is it definitely true that The actor danced?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The secretary said that the student recognized the bankers. Is it definitely true that The student recognized the bankers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The tourists encouraged the banker , or the secretaries believed the scientist. Is it definitely true that The secretaries believed the scientist?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: If the artist stopped the secretary , the lawyers contacted the presidents. Is it definitely true that The lawyers contacted the presidents?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Supposedly the secretary danced. Is it definitely true that The secretary danced?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The president said that the lawyer resigned. Is it definitely true that The lawyer resigned?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Hopefully the secretaries stopped the scientists. Is it definitely true that The secretaries stopped the scientists?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The student encouraged the author , or the professors arrived. Is it definitely true that The professors arrived?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: Probably the scientists mentioned the author. Is it definitely true that The scientists mentioned the author?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The senators introduced the judge , or the doctor waited. Is it definitely true that The doctor waited?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The scientists assumed that the bankers mentioned the managers. Is it definitely true that The bankers mentioned the managers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The tourists claimed that the actor performed. Is it definitely true that The actor performed?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The artist stopped the scientists , or the professor contacted the doctor. Is it definitely true that The professor contacted the doctor?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The doctor waited , or the banker supported the managers. Is it definitely true that The banker supported the managers?\nA:", "tgt": "No", "heuristic": "constituent"}
+{"src": "Q: The actor was helped by the tourist. Is it definitely true that The tourist helped the actor?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professor thanked the doctors that the scientist avoided. Is it definitely true that The scientist avoided the doctors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professor encouraged the secretaries who the actor advised. Is it definitely true that The actor advised the secretaries?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors that called the authors thanked the manager. Is it definitely true that The professors called the authors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The managers that encouraged the doctors recognized the banker. Is it definitely true that The managers encouraged the doctors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The banker recommended the president that the professor contacted. Is it definitely true that The professor contacted the president?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The managers avoided the banker who the senator supported. Is it definitely true that The senator supported the banker?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The author behind the lawyer encouraged the professors. Is it definitely true that The author encouraged the professors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The senators admired the doctor who helped the tourist. Is it definitely true that The doctor helped the tourist?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The author and the professor mentioned the doctor. Is it definitely true that The author mentioned the doctor?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The actor and the athlete recognized the scientist. Is it definitely true that The actor recognized the scientist?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The actor was admired by the judges. Is it definitely true that The judges admired the actor?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager was encouraged by the lawyers. Is it definitely true that The lawyers encouraged the manager?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The president introduced the managers and the author. Is it definitely true that The president introduced the author?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The artist was admired by the manager. Is it definitely true that The manager admired the artist?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors who the doctor stopped believed the lawyers. Is it definitely true that The doctor stopped the professors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professor in front of the doctor stopped the judge. Is it definitely true that The professor stopped the judge?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes were recommended by the senator. Is it definitely true that The senator recommended the athletes?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The president who the actors admired supported the managers. Is it definitely true that The president supported the managers?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The student next to the doctors helped the actors. Is it definitely true that The student helped the actors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The judges and the secretaries avoided the senators. Is it definitely true that The judges avoided the senators?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctors who performed called the secretaries. Is it definitely true that The doctors called the secretaries?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The students who recommended the actor thanked the tourists. Is it definitely true that The students thanked the tourists?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientist by the authors advised the bankers. Is it definitely true that The scientist advised the bankers?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The senators near the doctors mentioned the actors. Is it definitely true that The senators mentioned the actors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries that the student admired encouraged the president. Is it definitely true that The student admired the secretaries?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretary and the doctors mentioned the judge. Is it definitely true that The secretary mentioned the judge?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The managers were supported by the students. Is it definitely true that The students supported the managers?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager was stopped by the secretary. Is it definitely true that The secretary stopped the manager?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The managers and the doctors recommended the president. Is it definitely true that The managers recommended the president?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists were recommended by the athletes. Is it definitely true that The athletes recommended the scientists?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The artist by the senators admired the presidents. Is it definitely true that The artist admired the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The athlete next to the bankers mentioned the judge. Is it definitely true that The athlete mentioned the judge?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The judge was recognized by the students. Is it definitely true that The students recognized the judge?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The tourists and the senators admired the athletes. Is it definitely true that The tourists admired the athletes?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors and the students recommended the senators. Is it definitely true that The professors recommended the senators?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The artists stopped the presidents who avoided the senators. Is it definitely true that The presidents avoided the senators?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctor in front of the banker recognized the judge. Is it definitely true that The doctor recognized the judge?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists who ran saw the professor. Is it definitely true that The scientists saw the professor?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The senator called the scientist and the tourist. Is it definitely true that The senator called the tourist?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The senator was thanked by the doctors. Is it definitely true that The doctors thanked the senator?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors and the athletes encouraged the tourists. Is it definitely true that The professors encouraged the tourists?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors behind the doctor admired the banker. Is it definitely true that The professors admired the banker?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientist near the bankers saw the lawyers. Is it definitely true that The scientist saw the lawyers?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The actors were advised by the doctor. Is it definitely true that The doctor advised the actors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents were recommended by the actors. Is it definitely true that The actors recommended the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The president who believed the actors admired the artists. Is it definitely true that The president admired the artists?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The students thanked the authors that the actor recognized. Is it definitely true that The actor recognized the authors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The artists called the presidents and the manager. Is it definitely true that The artists called the manager?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The author that shouted mentioned the students. Is it definitely true that The author mentioned the students?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The artists by the bankers recognized the president. Is it definitely true that The artists recognized the president?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager next to the athletes helped the secretary. Is it definitely true that The manager helped the secretary?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries next to the student contacted the tourist. Is it definitely true that The secretaries contacted the tourist?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientist and the lawyer thanked the secretaries. Is it definitely true that The scientist thanked the secretaries?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The authors that the athlete called believed the secretary. Is it definitely true that The athlete called the authors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctor that the authors stopped thanked the student. Is it definitely true that The doctor thanked the student?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The students were recognized by the lawyer. Is it definitely true that The lawyer recognized the students?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The lawyer called the secretaries and the presidents. Is it definitely true that The lawyer called the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors by the authors introduced the presidents. Is it definitely true that The professors introduced the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The students who contacted the secretaries supported the manager. Is it definitely true that The students supported the manager?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The athletes who the judge saw recognized the professor. Is it definitely true that The judge saw the athletes?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The actors and the banker believed the presidents. Is it definitely true that The actors believed the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The judge and the managers recommended the authors. Is it definitely true that The judge recommended the authors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The banker saw the tourist who encouraged the artists. Is it definitely true that The tourist encouraged the artists?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The actors who danced supported the senators. Is it definitely true that The actors supported the senators?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists that the lawyer thanked helped the senators. Is it definitely true that The scientists helped the senators?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientist that avoided the tourist recognized the students. Is it definitely true that The scientist recognized the students?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents by the tourist believed the managers. Is it definitely true that The presidents believed the managers?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors in front of the presidents mentioned the judges. Is it definitely true that The professors mentioned the judges?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The author next to the athletes recommended the judge. Is it definitely true that The author recommended the judge?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The tourist was recommended by the lawyers. Is it definitely true that The lawyers recommended the tourist?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The banker by the senator advised the doctors. Is it definitely true that The banker advised the doctors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The manager that arrived advised the author. Is it definitely true that The manager advised the author?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The artists that the professor mentioned helped the student. Is it definitely true that The artists helped the student?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The athlete believed the secretaries that the managers contacted. Is it definitely true that The managers contacted the secretaries?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists near the lawyer encouraged the students. Is it definitely true that The scientists encouraged the students?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors in front of the athletes admired the secretaries. Is it definitely true that The professors admired the secretaries?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The author next to the tourist advised the lawyers. Is it definitely true that The author advised the lawyers?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The president by the professor called the author. Is it definitely true that The president called the author?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The actor behind the banker introduced the author. Is it definitely true that The actor introduced the author?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents were recognized by the scientists. Is it definitely true that The scientists recognized the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The student by the artist recommended the judge. Is it definitely true that The student recommended the judge?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The scientists in front of the athletes supported the tourist. Is it definitely true that The scientists supported the tourist?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The student called the secretaries and the author. Is it definitely true that The student called the author?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The author next to the secretaries called the artists. Is it definitely true that The author called the artists?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The president that shouted called the authors. Is it definitely true that The president called the authors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The lawyer encouraged the doctor and the secretary. Is it definitely true that The lawyer encouraged the secretary?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretary that supported the president recommended the scientists. Is it definitely true that The secretary supported the president?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The secretaries saw the lawyer and the athletes. Is it definitely true that The secretaries saw the athletes?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The actors who the tourists advised recommended the judges. Is it definitely true that The tourists advised the actors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The actor behind the scientists advised the authors. Is it definitely true that The actor advised the authors?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The tourists were supported by the lawyer. Is it definitely true that The lawyer supported the tourists?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents were recommended by the actors. Is it definitely true that The actors recommended the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The student advised the tourists and the professor. Is it definitely true that The student advised the professor?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professors that advised the student supported the senator. Is it definitely true that The professors advised the student?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The judge who arrived called the presidents. Is it definitely true that The judge called the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The doctor in front of the authors supported the student. Is it definitely true that The doctor supported the student?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The athlete was admired by the professor. Is it definitely true that The professor admired the athlete?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The professor by the banker supported the senators. Is it definitely true that The professor supported the senators?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The presidents that the scientist avoided supported the senator. Is it definitely true that The scientist avoided the presidents?\nA:", "tgt": "Yes", "heuristic": "lexical_overlap"}
+{"src": "Q: The lawyer saw the athletes that called the secretaries. Is it definitely true that The lawyer saw the athletes?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The presidents advised the author that recommended the scientists. Is it definitely true that The presidents advised the author?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The students won the prize. Is it definitely true that The students won?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The scientists paid the athletes. Is it definitely true that The scientists paid?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The author thanked the secretaries next to the president. Is it definitely true that The author thanked the secretaries?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The secretaries paid the artists. Is it definitely true that The secretaries paid?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The secretaries advised the tourist next to the author. Is it definitely true that The secretaries advised the tourist?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Famous tourists waited. Is it definitely true that Tourists waited?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The lawyer read the poem. Is it definitely true that The lawyer read?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Serious professors slept. Is it definitely true that Professors slept?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The doctor thanked the lawyers who waited. Is it definitely true that The doctor thanked the lawyers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actors saw the manager who the artists stopped. Is it definitely true that The actors saw the manager?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Famous students introduced the judges. Is it definitely true that Students introduced the judges?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The doctor wrote the novel. Is it definitely true that The doctor wrote?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The senator recognized the authors who the judge called. Is it definitely true that The senator recognized the authors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The secretaries explored the valley. Is it definitely true that The secretaries explored?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actor encouraged the athlete who the bankers contacted. Is it definitely true that The actor encouraged the athlete?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actor recognized the doctor that shouted. Is it definitely true that The actor recognized the doctor?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The author encouraged the judge that contacted the tourists. Is it definitely true that The author encouraged the judge?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Important actors introduced the scientist. Is it definitely true that Actors introduced the scientist?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Helpful senators shouted. Is it definitely true that Senators shouted?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actors and the manager danced. Is it definitely true that The manager danced?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The tourist admired the presidents by the student. Is it definitely true that The tourist admired the presidents?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The president supported the author that the actors saw. Is it definitely true that The president supported the author?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Important professors contacted the athletes. Is it definitely true that Professors contacted the athletes?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The tourist saw the authors by the students. Is it definitely true that The tourist saw the authors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The scientists avoided the actors next to the students. Is it definitely true that The scientists avoided the actors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The professor and the athlete avoided the doctor. Is it definitely true that The athlete avoided the doctor?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The senators believed the professors next to the athletes. Is it definitely true that The senators believed the professors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The students explored the neighborhood. Is it definitely true that The students explored?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Angry lawyers shouted. Is it definitely true that Lawyers shouted?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Popular doctors advised the artists. Is it definitely true that Doctors advised the artists?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The judge left the region. Is it definitely true that The judge left?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The secretary mentioned the student and the senators. Is it definitely true that The secretary mentioned the student?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actor and the bankers shouted. Is it definitely true that The bankers shouted?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The bankers and the scientist danced. Is it definitely true that The scientist danced?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Happy lawyers introduced the bankers. Is it definitely true that Lawyers introduced the bankers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The lawyers and the scientist slept. Is it definitely true that The scientist slept?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The artists introduced the managers and the senators. Is it definitely true that The artists introduced the managers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The authors believed the student by the actor. Is it definitely true that The authors believed the student?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Helpful lawyers admired the actors. Is it definitely true that Lawyers admired the actors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The senator paid the professor. Is it definitely true that The senator paid?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The senators recommended the judges that the students recognized. Is it definitely true that The senators recommended the judges?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The secretaries encouraged the judges behind the managers. Is it definitely true that The secretaries encouraged the judges?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The lawyer and the bankers shouted. Is it definitely true that The bankers shouted?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Serious managers contacted the lawyer. Is it definitely true that Managers contacted the lawyer?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The artists believed the bankers in front of the professors. Is it definitely true that The artists believed the bankers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The lawyer introduced the managers near the judges. Is it definitely true that The lawyer introduced the managers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The students recommended the manager in front of the actors. Is it definitely true that The students recommended the manager?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The manager explored the town. Is it definitely true that The manager explored?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Young artists recommended the managers. Is it definitely true that Artists recommended the managers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The banker recognized the scientists and the lawyer. Is it definitely true that The banker recognized the scientists?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The scientists mentioned the doctors by the president. Is it definitely true that The scientists mentioned the doctors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actors saw the doctor who the athlete advised. Is it definitely true that The actors saw the doctor?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The secretaries wrote the report. Is it definitely true that The secretaries wrote?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The professors helped the managers who advised the artist. Is it definitely true that The professors helped the managers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Young scientists advised the secretaries. Is it definitely true that Scientists advised the secretaries?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The student paid the professors. Is it definitely true that The student paid?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The athlete introduced the judge by the student. Is it definitely true that The athlete introduced the judge?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actors recognized the scientist and the tourists. Is it definitely true that The actors recognized the scientist?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The tourists contacted the professor that encouraged the lawyer. Is it definitely true that The tourists contacted the professor?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The doctor saw the senators and the lawyers. Is it definitely true that The doctor saw the senators?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The lawyer introduced the artists by the bankers. Is it definitely true that The lawyer introduced the artists?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The presidents introduced the secretary next to the athlete. Is it definitely true that The presidents introduced the secretary?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The doctors believed the managers that performed. Is it definitely true that The doctors believed the managers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The tourist explored the region. Is it definitely true that The tourist explored?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The students and the actor avoided the managers. Is it definitely true that The actor avoided the managers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The athletes read the letter. Is it definitely true that The athletes read?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Angry scientists recommended the secretary. Is it definitely true that Scientists recommended the secretary?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The presidents paid the scientists. Is it definitely true that The presidents paid?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The doctors and the artist introduced the scientists. Is it definitely true that The artist introduced the scientists?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The judges recognized the doctor behind the banker. Is it definitely true that The judges recognized the doctor?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The bankers left the town. Is it definitely true that The bankers left?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The bankers paid the tourist. Is it definitely true that The bankers paid?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The tourist saw the secretaries behind the managers. Is it definitely true that The tourist saw the secretaries?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The managers supported the judges next to the lawyer. Is it definitely true that The managers supported the judges?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The professor ate the salad. Is it definitely true that The professor ate?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The lawyer explored the desert. Is it definitely true that The lawyer explored?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actors contacted the athlete near the student. Is it definitely true that The actors contacted the athlete?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Young managers shouted. Is it definitely true that Managers shouted?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The managers stopped the athletes by the author. Is it definitely true that The managers stopped the athletes?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The students advised the secretary and the actor. Is it definitely true that The students advised the secretary?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The banker contacted the secretary who danced. Is it definitely true that The banker contacted the secretary?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The lawyer ate the rice. Is it definitely true that The lawyer ate?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The athlete called the professors that waited. Is it definitely true that The athlete called the professors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The presidents thanked the secretary by the senators. Is it definitely true that The presidents thanked the secretary?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Helpful authors waited. Is it definitely true that Authors waited?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actor read the letter. Is it definitely true that The actor read?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The athletes called the doctor who the professor admired. Is it definitely true that The athletes called the doctor?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The secretary supported the students who waited. Is it definitely true that The secretary supported the students?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The artist paid the student. Is it definitely true that The artist paid?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actors avoided the professors that the scientists introduced. Is it definitely true that The actors avoided the professors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The senators recommended the secretary that resigned. Is it definitely true that The senators recommended the secretary?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The secretary saw the authors next to the student. Is it definitely true that The secretary saw the authors?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The author called the lawyers that danced. Is it definitely true that The author called the lawyers?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Helpful lawyers encouraged the athletes. Is it definitely true that Lawyers encouraged the athletes?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Young professors admired the judge. Is it definitely true that Professors admired the judge?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The manager and the students admired the banker. Is it definitely true that The students admired the banker?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The actor and the manager advised the senators. Is it definitely true that The manager advised the senators?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: The banker and the secretaries thanked the tourist. Is it definitely true that The secretaries thanked the tourist?\nA:", "tgt": "Yes", "heuristic": "subsequence"}
+{"src": "Q: Certainly the secretaries advised the actor. Is it definitely true that The secretaries advised the actor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Though the tourist slept , the professors supported the scientists. Is it definitely true that The tourist slept?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The secretary stopped the manager , and the scientist slept. Is it definitely true that The scientist slept?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: While the doctor saw the scientists , the bankers arrived. Is it definitely true that The doctor saw the scientists?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Certainly the tourists supported the lawyers. Is it definitely true that The tourists supported the lawyers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The bankers remembered that the students admired the author. Is it definitely true that The students admired the author?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: While the secretaries danced , the bankers shouted. Is it definitely true that The secretaries danced?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Clearly the professors avoided the actors. Is it definitely true that The professors avoided the actors?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Certainly the president performed. Is it definitely true that The president performed?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Clearly the author ran. Is it definitely true that The author ran?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Because the senator shouted , the tourists recommended the banker. Is it definitely true that The tourists recommended the banker?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The scientist forgot that the judge waited. Is it definitely true that The judge waited?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The professor contacted the athlete , and the actor resigned. Is it definitely true that The professor contacted the athlete?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Because the secretaries recognized the bankers , the lawyers encouraged the professors. Is it definitely true that The lawyers encouraged the professors?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The doctor knew that the professor ran. Is it definitely true that The professor ran?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The senator introduced the actors , and the president called the lawyers. Is it definitely true that The senator introduced the actors?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The professors encouraged the students , and the author saw the actor. Is it definitely true that The author saw the actor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Certainly the president believed the student. Is it definitely true that The president believed the student?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The bankers recognized the tourist , and the scientist helped the lawyer. Is it definitely true that The scientist helped the lawyer?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Whether or not the professor supported the tourists , the secretaries recognized the doctor. Is it definitely true that The secretaries recognized the doctor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The judges introduced the secretaries , and the presidents shouted. Is it definitely true that The presidents shouted?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The students forgot that the athletes shouted. Is it definitely true that The athletes shouted?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: While the lawyer contacted the artists , the secretaries supported the scientist. Is it definitely true that The lawyer contacted the artists?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Though the secretary danced , the actors slept. Is it definitely true that The secretary danced?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The presidents shouted , and the judges recognized the scientists. Is it definitely true that The judges recognized the scientists?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Whether or not the banker shouted , the students slept. Is it definitely true that The students slept?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Because the doctors stopped the student , the senator believed the actors. Is it definitely true that The doctors stopped the student?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The senators knew that the managers stopped the lawyer. Is it definitely true that The managers stopped the lawyer?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The scientist remembered that the student advised the authors. Is it definitely true that The student advised the authors?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: In case the tourists supported the actor , the professors avoided the bankers. Is it definitely true that The professors avoided the bankers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The president knew that the senators shouted. Is it definitely true that The senators shouted?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The athlete knew that the lawyer saw the doctor. Is it definitely true that The lawyer saw the doctor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The actors knew that the lawyer encouraged the banker. Is it definitely true that The lawyer encouraged the banker?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Without a doubt the student arrived. Is it definitely true that The student arrived?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Suddenly the artists admired the managers. Is it definitely true that The artists admired the managers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: In case the professor recognized the managers , the judge mentioned the senator. Is it definitely true that The judge mentioned the senator?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Clearly the lawyer called the scientists. Is it definitely true that The lawyer called the scientists?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Though the presidents ran , the banker avoided the athletes. Is it definitely true that The banker avoided the athletes?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Without a doubt the senators resigned. Is it definitely true that The senators resigned?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: After the doctor believed the secretary , the judges stopped the lawyer. Is it definitely true that The doctor believed the secretary?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Though the senator ran , the presidents avoided the secretary. Is it definitely true that The presidents avoided the secretary?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Certainly the scientist avoided the secretary. Is it definitely true that The scientist avoided the secretary?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The athlete thanked the student , and the banker waited. Is it definitely true that The athlete thanked the student?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The bankers called the student , and the presidents recommended the secretaries. Is it definitely true that The presidents recommended the secretaries?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Because the artist thanked the professors , the scientists avoided the judges. Is it definitely true that The scientists avoided the judges?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: After the professor avoided the bankers , the judge waited. Is it definitely true that The professor avoided the bankers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Suddenly the judge saw the artists. Is it definitely true that The judge saw the artists?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: While the president recommended the scientist , the doctors thanked the tourist. Is it definitely true that The president recommended the scientist?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Though the scientist saw the artists , the professor believed the lawyers. Is it definitely true that The scientist saw the artists?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The judge knew that the student advised the professors. Is it definitely true that The student advised the professors?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Clearly the artist waited. Is it definitely true that The artist waited?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The professors supported the tourists , and the secretaries arrived. Is it definitely true that The secretaries arrived?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Obviously the professor mentioned the lawyers. Is it definitely true that The professor mentioned the lawyers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The lawyer performed , and the professors supported the managers. Is it definitely true that The professors supported the managers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The judges remembered that the artist called the athlete. Is it definitely true that The artist called the athlete?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Without a doubt the doctors shouted. Is it definitely true that The doctors shouted?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: After the scientist called the senators , the tourists encouraged the students. Is it definitely true that The tourists encouraged the students?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Because the president recommended the manager , the actors contacted the senator. Is it definitely true that The president recommended the manager?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Certainly the professor resigned. Is it definitely true that The professor resigned?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Clearly the doctor danced. Is it definitely true that The doctor danced?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The actor recommended the manager , and the lawyer ran. Is it definitely true that The actor recommended the manager?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The professors forgot that the senators recommended the judge. Is it definitely true that The senators recommended the judge?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: After the artist supported the manager , the doctors slept. Is it definitely true that The doctors slept?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: After the students encouraged the scientists , the lawyers advised the judge. Is it definitely true that The lawyers advised the judge?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Because the doctor thanked the tourists , the professors helped the artists. Is it definitely true that The doctor thanked the tourists?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Though the secretaries saw the lawyers , the tourist arrived. Is it definitely true that The secretaries saw the lawyers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The manager forgot that the scientist mentioned the lawyers. Is it definitely true that The scientist mentioned the lawyers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Suddenly the doctors stopped the president. Is it definitely true that The doctors stopped the president?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Obviously the bankers slept. Is it definitely true that The bankers slept?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The authors forgot that the judge waited. Is it definitely true that The judge waited?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The senators resigned , and the lawyers believed the actors. Is it definitely true that The lawyers believed the actors?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The doctors forgot that the senators encouraged the managers. Is it definitely true that The senators encouraged the managers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The professors resigned , and the actors thanked the doctors. Is it definitely true that The professors resigned?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The lawyer slept , and the scientist advised the artist. Is it definitely true that The lawyer slept?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Without a doubt the tourists shouted. Is it definitely true that The tourists shouted?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Of course the actors performed. Is it definitely true that The actors performed?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The tourists believed the doctor , and the scientist performed. Is it definitely true that The tourists believed the doctor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The lawyers remembered that the actors avoided the students. Is it definitely true that The actors avoided the students?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: While the lawyers helped the secretaries , the scientists introduced the doctor. Is it definitely true that The lawyers helped the secretaries?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The judges knew that the student performed. Is it definitely true that The student performed?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The students forgot that the presidents contacted the lawyer. Is it definitely true that The presidents contacted the lawyer?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: After the bankers recommended the manager , the lawyers encouraged the doctors. Is it definitely true that The bankers recommended the manager?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Though the tourists recommended the managers , the scientists helped the authors. Is it definitely true that The scientists helped the authors?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The judges forgot that the athletes introduced the manager. Is it definitely true that The athletes introduced the manager?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Though the artist saw the presidents , the doctor recognized the actors. Is it definitely true that The artist saw the presidents?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The manager danced , and the artist believed the tourists. Is it definitely true that The artist believed the tourists?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Because the student performed , the senators believed the bankers. Is it definitely true that The senators believed the bankers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Suddenly the banker resigned. Is it definitely true that The banker resigned?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The secretaries danced , and the doctor introduced the students. Is it definitely true that The doctor introduced the students?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The banker forgot that the athletes encouraged the author. Is it definitely true that The athletes encouraged the author?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The doctors remembered that the artists danced. Is it definitely true that The artists danced?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: In case the secretaries danced , the senators recommended the lawyers. Is it definitely true that The senators recommended the lawyers?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: After the manager encouraged the secretaries , the senator danced. Is it definitely true that The senator danced?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Obviously the secretary shouted. Is it definitely true that The secretary shouted?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Of course the presidents recommended the doctor. Is it definitely true that The presidents recommended the doctor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The lawyer stopped the doctors , and the author introduced the actor. Is it definitely true that The author introduced the actor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The lawyer stopped the doctors , and the author introduced the actor. Is it definitely true that The author introduced the actor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Although the scientist avoided the doctor , the secretary stopped the lawyers. Is it definitely true that The scientist avoided the doctor?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: The artists forgot that the scientists shouted. Is it definitely true that The scientists shouted?\nA:", "tgt": "Yes", "heuristic": "constituent"}
+{"src": "Q: Because the presidents saw the lawyers , the senator resigned. Is it definitely true that The presidents saw the lawyers?\nA:", "tgt": "Yes", "heuristic": "constituent"}

@@ -1,0 +1,135 @@
+Q: Your quails by our vulture haven't entertained the newt.
+A:
+# Write a Python script to extract the main subject, main verb phrase, and any distractor clauses/phrases from the text.
+# Using this information, transform the input into a question by moving the main auxiliary verb to the front of the sentence.
+main_subject = "Your quails"
+main_object = "the newt"
+main_vp = "hasn't entertained"
+main_aux = "haven't"
+distractors = ["by our vulture"]
+
+words = sentence.split()
+main_aux_idx = words.index(main_aux)
+output_words = words.insert(0, words.pop(main_aux_idx))
+output_sentence = " ".join(output_words).capitalize()
+answer = output_sentence.replace(".", "?")
+# The answer is Hasn't the salamander seen the newt by the zebras?
+
+Q: Her xylophones upon your newt have applauded some peacock near her quails.
+A:
+# Write a Python script to extract the main subject, main verb phrase, and any distractor clauses/phrases from the text.
+# Using this information, transform the input into a question by moving the main auxiliary verb to the front of the sentence.
+main_subject = "Her xylophones"
+main_object = "some peacock"
+main_vp = "have applauded"
+main_aux = "have"
+distractors = ["upon your newt", "near her quails"]
+
+words = sentence.split()
+main_aux_idx = words.index(main_aux)
+output_words = words.insert(0, words.pop(main_aux_idx))
+output_sentence = " ".join(output_words).capitalize()
+answer = output_sentence.replace(".", "?")
+# The answer is Have her xylophones upon your newt applauded some peacock near her quails?
+
+Q: The orangutan below our zebras hasn't entertained your peacocks.
+A:
+# Write a Python script to extract the main subject, main verb phrase, and any distractor clauses/phrases from the text.
+# Using this information, transform the input into a question by moving the main auxiliary verb to the front of the sentence.
+main_subject = "The orangutan"
+main_object = "your peacocks"
+main_vp = "hasn't entertained"
+main_aux = "hasn't"
+distractors = ["below our zebras"]
+
+words = sentence.split()
+main_aux_idx = words.index(main_aux)
+output_words = words.insert(0, words.pop(main_aux_idx))
+output_sentence = " ".join(output_words).capitalize()
+answer = output_sentence.replace(".", "?")
+# The answer is Hasn't the orangutan below our zebras entertained your peacocks?
+
+Q: Some zebra by the quails has eaten.
+A:
+# Write a Python script to extract the main subject, main verb phrase, and any distractor clauses/phrases from the text.
+# Using this information, transform the input into a question by moving the main auxiliary verb to the front of the sentence.
+main_subject = "Some zebra"
+main_object = ""
+main_vp = "has eaten"
+main_aux = "has"
+distractors = ["by the quails"]
+
+words = sentence.split()
+main_aux_idx = words.index(main_aux)
+output_words = words.insert(0, words.pop(main_aux_idx))
+output_sentence = " ".join(output_words).capitalize()
+answer = output_sentence.replace(".", "?")
+# The answer is Has some zebra by the quails eaten?
+
+Q: The newts have annoyed her yaks upon her salamander.
+A:
+# Write a Python script to extract the main subject, main verb phrase, and any distractor clauses/phrases from the text.
+# Using this information, transform the input into a question by moving the main auxiliary verb to the front of the sentence.
+main_subject = "The newts"
+main_object = "her yaks"
+main_vp = "have annoyed"
+main_aux = "have"
+distractors = ["upon her salamander"]
+
+words = sentence.split()
+main_aux_idx = words.index(main_aux)
+output_words = words.insert(0, words.pop(main_aux_idx))
+output_sentence = " ".join(output_words).capitalize()
+answer = output_sentence.replace(".", "?")
+# The answer is Have the newts annoyed her yaks upon her salamander?
+
+Q: Your peacocks behind my walruses haven't admired your xylophone that hasn't amused her salamander.
+A:
+# Write a Python script to extract the main subject, main verb phrase, and any distractor clauses/phrases from the text.
+# Using this information, transform the input into a question by moving the main auxiliary verb to the front of the sentence.
+main_subject = "Your peacocks"
+main_object = "your xylophone"
+main_vp = "haven't admired"
+main_aux = "haven't"
+distractors = ["behind my walruses", "that hasn't amused her salamander"]
+
+words = sentence.split()
+main_aux_idx = words.index(main_aux)
+output_words = words.insert(0, words.pop(main_aux_idx))
+output_sentence = " ".join(output_words).capitalize()
+answer = output_sentence.replace(".", "?")
+# The answer is Haven't your peacocks behind my walruses admired your xylophone that hasn't amused her salamander?
+
+Q: My zebra has confused your zebra who has entertained my tyrannosauruses.
+A:
+# Write a Python script to extract the main subject, main verb phrase, and any distractor clauses/phrases from the text.
+# Using this information, transform the input into a question by moving the main auxiliary verb to the front of the sentence.
+main_subject = "My zebra"
+main_object = "your zebra"
+main_vp = "has confused"
+main_aux = "has"
+distractors = ["who has entertained my tyrannosauruses"]
+
+words = sentence.split()
+main_aux_idx = words.index(main_aux)
+output_words = words.insert(0, words.pop(main_aux_idx))
+output_sentence = " ".join(output_words).capitalize()
+answer = output_sentence.replace(".", "?")
+# The answer is Has my zebra confused your zebra who has entertained my tyrannosauruses?
+
+Q: Their newt hasn't remembered her unicorns.
+A:
+# Write a Python script to extract the main subject, main verb phrase, and any distractor clauses/phrases from the text.
+# Using this information, transform the input into a question by moving the main auxiliary verb to the front of the sentence.
+main_subject = "Their newt"
+main_object = "her unicorns"
+main_vp = "hasn't remembered"
+main_aux = "hasn't"
+distractors = []
+
+words = sentence.split()
+main_aux_idx = words.index(main_aux)
+output_words = words.insert(0, words.pop(main_aux_idx))
+output_sentence = " ".join(output_words).capitalize()
+answer = output_sentence.replace(".", "?")
+# The answer is Hasn't their newt remembered her unicorns?
