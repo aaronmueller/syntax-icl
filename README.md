@@ -2,7 +2,7 @@
 
 This repository contains materials for the paper
 "In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax" 
-(Mueller et al., 2023). The preprint is available on arXiv (TODO: add link).
+(Mueller et al., 2023). The preprint is available [on arXiv](https://arxiv.org/abs/2311.07811).
 
 If you find the code or data useful in your research, please use the citation at the end of the README.
 
@@ -50,6 +50,7 @@ format.
     author = {Mueller, Aaron and Webson, Albert and Petty, Jackson and Linzen, Tal},
     year = {2023},
     journal = {Computing Research Repository},
+    volume = {arXiv:2311.07811}
 }
 ```
 
