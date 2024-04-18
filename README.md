@@ -40,6 +40,12 @@ Please note that to run the OpenAI models, you will need to set the environment 
 your API key. For security reasons, **do not** commit this key anywhere in your code.
 
 
+## Evaluating Reasoning Accuracy and Faithfulness
+There are scripts for detailed evaluations of reasoning accuracy (the accuracy of the model's chain-of-thought reasoning) and faithfulness (whether the model's final answer agrees with its own chain-of-thought reasoning). These are provided under `data/question_formation/detailed_eval.py` and `data/tense_reinflection/detailed_eval.py`.
+
+Note that these scripts will only work for generations using the Code CoT format.
+
+
 ## Citation
 ```
 @inproceedings{mueller-etal-icl-2024,
