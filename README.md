@@ -1,13 +1,13 @@
 # In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax
-
 This repository contains materials for the paper
 "In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax" 
-(Mueller et al., 2023). The preprint is available [on arXiv](https://arxiv.org/abs/2311.07811).
+(Mueller et al., 2024). This paper was presented and published at NAACL 2024.
+A preprint is available [on arXiv](https://arxiv.org/abs/2311.07811).
 
 If you find the code or data useful in your research, please use the citation at the end of the README.
 
-## Prompts and Evaluation Data
 
+## Prompts and Evaluation Data
 Prompts and evaluation datasets can be found in the [`data`](data) folder.
 
 The directories immediately under `data`
@@ -19,15 +19,16 @@ Each of these folders also contains prompts: `no_cot.txt` corresponds to no chai
 `verbal_cot.txt` incorporates meta-linguistic information about the inputs, explained verbally; and `code_cot.txt`
 incorporates meta-linguistic information about the inputs in a Python code format.
 
-## Generation and Evaluation Scripts
 
+## Generation and Evaluation Scripts
 The [`generate_and_eval.py`](generate_and_eval.py) script contains code for running generation and evaluating
-model predictions. This is currently a lot of content for one script and will be refactored in the coming weeks.
+model predictions. This script relies on evaluation logic in `evaluation.py`, as well as
+generation helper functions in `generation_utils.py`.
 
 As an example, to evaluate GPT-3.5 `text-davinci-003` on the OOD question formation data with no chain-of-thought prompting,
 run the following command from the root directory of this repository:
 ```
-python generate_and_eval.py question_formation no_cot.txt --model text-davinci-003 --max_length 64
+python generate_and_eval.py question_formation no_cot.txt --oai_model text-davinci-003 --max_length 64
 ```
 
 And to evaluate Llama 2 (70B) on in-distribution question formation data:
@@ -38,19 +39,15 @@ python generate_and_eval.py question_formation no_cot.txt --llama meta-llama/Lla
 Please note that to run the OpenAI models, you will need to set the environment variable `$OPENAI_API_KEY` to
 your API key. For security reasons, **do not** commit this key anywhere in your code.
 
-### Detailed Evaluation Scripts
-We also provide two detailed evaluation scripts: one for the question formation task, and another for the
-tense reinflection task. These will work *only* on predictions that conform to the Code CoT
-format.
 
 ## Citation
 ```
-@article{mueller-etal-icl-2023,
+@inproceedings{mueller-etal-icl-2024,
     title = {In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax},
     author = {Mueller, Aaron and Webson, Albert and Petty, Jackson and Linzen, Tal},
-    year = {2023},
-    journal = {Computing Research Repository},
-    volume = {arXiv:2311.07811}
+    year = "2024",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics",
+    publisher = "Association for Computational Linguistics"
 }
 ```
 
