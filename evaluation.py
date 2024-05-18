@@ -27,7 +27,7 @@ def eval_hans(pred, gold):
     pred = pred.lower()
     if "the answer is" in pred:
         pred = pred.split("the answer is")[1]
-    pred = pred.split()[0].strip(".")
+    pred = pred.split()[0].strip(".").strip(",")
     return pred == gold
 
 
