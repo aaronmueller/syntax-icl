@@ -2,6 +2,7 @@ import json
 from collections import defaultdict
 
 def eval_transformation(pred, gold, transformation_type="question"):
+    """Evaluate a single question formation output."""
     gold = gold.lower().strip()
     pred = pred.lower().strip()
     idx = 0 if transformation_type == "question" else 1
@@ -13,6 +14,7 @@ def eval_transformation(pred, gold, transformation_type="question"):
 
 
 def eval_tense(pred, gold, diff_idx):
+    """Evaluate a single tense reinflection output."""
     gold = gold.lower().strip()
     pred = pred.lower().strip()
     if "the answer is" in pred:
@@ -23,6 +25,7 @@ def eval_tense(pred, gold, diff_idx):
 
 
 def eval_hans(pred, gold):
+    """Evaluate a single HANS output."""
     gold = gold.lower()
     pred = pred.lower()
     if "the answer is" in pred:
@@ -42,10 +45,15 @@ def evaluate_example(pred, tgt, task, diff_idx=None, print_errors=False):
 
 
 def evaluate_from_file(preds_filepath, test_filepath, task, print_errors=False):
+    """
+    Evaluate all outputs predictions for a given testset and file containing
+    model predictions on that testset.
+    """
     correct_grouped = defaultdict(lambda: defaultdict(int))
     total_grouped = defaultdict(lambda: defaultdict(int))
     total = 0
     correct = 0
+    # iterate through pairs of aligned examples and outputs
     with open(preds_filepath, "r") as preds_file, open(test_filepath, "r") as test_file:
         for gold, pred in zip(test_file, preds_file):
             total += 1
@@ -56,7 +64,7 @@ def evaluate_from_file(preds_filepath, test_filepath, task, print_errors=False):
             correct_bool = evaluate_example(pred, tgt, task,
                                             diff_idx=diff_idx, print_errors=print_errors)
             correct += int(correct_bool)
-            if task == "hans":
+            if task == "hans":  # group results by label and heuristic type
                 correct_grouped[data["heuristic"]][str(data["tgt"])] += int(correct_bool)
                 total_grouped[data["heuristic"]][str(data["tgt"])] += 1
             if print_errors and not correct_bool:
