@@ -1,6 +1,7 @@
 import openai
 
 def get_openai_response(prompts, max_len, model):
+    """Get a single output from an OpenAI model."""
     response = openai.Completion.create(
         model=model,
         prompt=prompts,
@@ -14,6 +15,10 @@ def get_openai_response(prompts, max_len, model):
 
 
 def get_openai_response_chatmodels(prompt, max_len, model):
+    """
+    Get a single response from an OpenAI chat model
+    (e.g., GPT-3.5 Turbo or GPT-4).
+    """
     response = openai.ChatCompletion.create(
         model=model,
         messages=[
@@ -29,6 +34,7 @@ def get_openai_response_chatmodels(prompt, max_len, model):
 
 
 def load_llama(model_name):
+    """Set up and load (Code)Llama tokenizer and model."""
     import torch
 
     if model_name.startswith("meta-llama/Llama-2"):
@@ -59,6 +65,7 @@ def load_llama(model_name):
 
 
 def get_llama_response(tokenizer, model, prompts, max_len):
+    """Get a single response for a (Code)Llama model."""
     input_ids = tokenizer(prompts, return_tensors="pt").input_ids.to("cuda")
     outputs = model.generate(input_ids,
                             top_p=0.9,

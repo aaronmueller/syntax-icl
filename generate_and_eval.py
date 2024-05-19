@@ -16,6 +16,7 @@ from evaluation import (
 )
 
 def batchify(lines, batch_size):
+    """Given list `lines`, return list of batches."""
     batched = []
     curr_batch = []
     for idx, example in enumerate(lines):
@@ -31,6 +32,10 @@ def batchify(lines, batch_size):
 
 
 def backoff_response(prompts, sleep_len, max_len, model, use_chat_model):
+    """
+    Call OpenAI generation function with `sleep_len` seconds between calls.
+    Increases `sleep_len` if rate errors are encountered.
+    """
     preds = None
     while preds is None:
         try:
@@ -107,7 +112,6 @@ def generate_and_evaluate(preds_filepath, test_filepath, model_name, llama,
 
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser()
     parser.add_argument("task", type=str, help="Evaluation task.")
     parser.add_argument("prompt", type=str, help="Path to exemplar string as .txt file.")
